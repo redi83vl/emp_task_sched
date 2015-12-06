@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+    <param
+        dbdrv = "com.mysql.jdbc.Driver"
+        dburl = "jdbc:mysql://127.0.0.1:3306/ets"
+        dbusr = "root"
+        dbpwd = ""
+        user = "U19913483E"
+    />
+</root>
